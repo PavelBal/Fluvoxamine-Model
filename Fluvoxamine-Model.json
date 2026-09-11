@@ -2905,86 +2905,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg BID, EM|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -3136,50 +3056,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 10 mg QD, PM|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3335,86 +3211,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg BID, EM|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -3566,50 +3362,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Chistensen 2002, 25 mg QD, PM|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3765,14 +3517,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Spigset 1997, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -3924,14 +3668,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Spigset 1997, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4087,14 +3823,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Jpanes Society 2015, 30 mg SD, infusion 60min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -4241,338 +3969,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_21|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_22|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_23|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_24|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_25|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_26|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_27|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_28|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_29|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_30|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_31|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_32|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_33|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_34|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_35|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_36|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_37|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_38|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_39|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_40|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_41|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_42|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_43|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_44|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_45|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_46|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_47|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_48|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_49|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_50|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_51|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_52|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_53|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_54|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_55|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|de Vries 1992, 50 mg BID, 28 days|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4744,68 +4140,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Fleishaker 1994, 50 mg QD 3 days, 100 mg QD 7 days|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -4961,182 +4295,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_21|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_22|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_23|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_24|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_25|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_26|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_27|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_28|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_29|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Labellarte 2004, 150 mg BID, 7 days|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -5287,68 +4445,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|SENSITIVITY_300mgQD_10days|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -5485,344 +4581,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_21|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_22|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_23|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_24|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_25|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_26|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_27|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_28|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_29|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_30|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_31|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_32|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_33|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_34|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_35|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_36|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_37|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_38|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_39|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_40|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_41|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_42|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_43|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_44|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_45|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_46|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_47|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_48|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_49|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_50|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_51|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_52|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_53|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_54|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_55|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_56|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Spigset 1998, 12.5 mg BID 7 days, 25 mg BID 7 days, 50 mg BID 7 days, 100 mg BID 7 days, 28 days|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -6026,14 +4784,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Spigset 1995, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -6185,14 +4935,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Spigset 1995, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -6348,14 +5090,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Bahrami 2007, 100 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -6507,14 +5241,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|De Bree 1983, 100mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -6670,14 +5396,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|de Vries 1993, 100 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -6829,14 +5547,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|de Vries 1993, 25 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -6992,14 +5702,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|de Vries 1993, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -7151,14 +5853,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Fukasawa 2006, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -7314,14 +6008,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Jpanes Society 2015, 100 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -7475,14 +6161,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Jpanes Society 2015, 200 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -7634,14 +6312,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Jpanes Society 2015, 25 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -7799,14 +6469,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Japanese Society 2015, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -7962,14 +6624,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Kunii 2005, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -8123,14 +6777,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Orlando 2010, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
@@ -8282,14 +6928,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|van Harten 1991, 50 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
